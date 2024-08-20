@@ -1,6 +1,5 @@
 import React from "react";
-import { styles } from "../styles/style";
-
+import { styles } from "../styles/styles";
 const About = () => {
   return (
     <div className="text-black dark:text-white">
